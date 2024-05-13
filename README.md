@@ -16,7 +16,7 @@ Ascentrade seeks to provide a community-driven unified, modular and extensible p
 The project is currently under active development.
 We will focus on providing an MVP with the following components/features before implementing new features:
 
-- [ ] data model and representation in a PostgreSQL [database](https://github.com/Ascentrade/database.git).
+- [X] data model and representation in a PostgreSQL [database](https://github.com/Ascentrade/database.git).
 - [ ] public REST API and internal GraphQL API in a backend.
 - [ ] updater/ingestor/aggregator for [EOD Historical](https://eodhd.com/) data.
 - [ ] interactive frontend to browse stock market data.
